@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/attendancecal-klu/static/css/main.714b0642.css",
+    "main.js": "/attendancecal-klu/static/js/main.e7be9a4c.js",
+    "static/js/453.83bdee10.chunk.js": "/attendancecal-klu/static/js/453.83bdee10.chunk.js",
+    "index.html": "/attendancecal-klu/index.html",
+    "main.714b0642.css.map": "/attendancecal-klu/static/css/main.714b0642.css.map",
+    "main.e7be9a4c.js.map": "/attendancecal-klu/static/js/main.e7be9a4c.js.map",
+    "453.83bdee10.chunk.js.map": "/attendancecal-klu/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714b0642.css",
+    "static/js/main.e7be9a4c.js"
+  ]
+}
